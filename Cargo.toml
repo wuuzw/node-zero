@@ -1,0 +1,17 @@
+[package]
+name = "node-zero"
+version = "0.1.0"
+authors = ["wuuzw <29149346+wuuzw@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1.0.60"
+nix = "0.19.1"
+tempfile = "3.1.0"
+flate2 = "1.0.19"
+tar = "0.4.30"
+curl = "0.4.34"
+is-root = "0.1.2"
+dialoguer = "0.7.1"
