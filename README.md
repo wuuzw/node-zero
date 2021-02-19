@@ -5,14 +5,7 @@ A Node.js installer for armv6 [unofficial builds](https://unofficial-builds.node
 ![node-zero gif](node-zero.gif)
 ## Installation
 
-Use curl or wget to download node-zero.
-
-```bash
-curl https://github.com/wuuzw/node-zero/releases/latest/download/node-zero
-```
-
-or
-
+Use wget to download node-zero.
 ```bash
 wget https://github.com/wuuzw/node-zero/releases/latest/download/node-zero
 ```
